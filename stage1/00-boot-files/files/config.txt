@@ -54,4 +54,4 @@ dtparam=spi=on
 
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
-dtoverlay=i1s-mmap
+dtoverlay=i2s-mmap
