@@ -1,0 +1,11 @@
+--- a/rootfs/etc/snips.toml
++++ b/rootfs/etc/snips.toml
+@@ -37,6 +37,8 @@
+ # mike = "Built-in Microphone"
+ # disable_playback = false
+ # disable_capture = false
++alsa_capture = "default"
++alsa_playback = "default"
+ 
+ [snips-dialogue]
+ # resources = "/usr/share/snips/dialogue"
