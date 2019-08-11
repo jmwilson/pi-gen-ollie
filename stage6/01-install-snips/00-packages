@@ -1,3 +1,5 @@
+libgfortran3
+libatlas3-base/buster
 snips-platform-voice
 ollie
 seeed-voicecard

@@ -1,0 +1,7 @@
+Package: *
+Pin: release o=Debian,a=stable,c=non-free
+Pin-Priority=-1
+
+Package: libttspico*
+Pin: release o=Debian,a=stable,c=non-free
+Pin-Priority: 200
